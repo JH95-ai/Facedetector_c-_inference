@@ -1,0 +1,29 @@
+﻿  main.cpp
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(28): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C2653: “ncnn”: 不是类或命名空间名称
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C2238: 意外的标记位于“;”之前
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(39): warning C4244: “初始化”: 从“const int”转换到“float”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(64): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(65): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(66): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(68): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(69): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\main.cpp(62): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  FaceDetector.cpp
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(28): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C2653: “ncnn”: 不是类或命名空间名称
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\doc\github_program_month_8\face-detector-1mb-with-landmark\face_detector_ncnn\FaceDetector.h(95): error C2238: 意外的标记位于“;”之前
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\FaceDetector.cpp(9): error C2653: “ncnn”: 不是类或命名空间名称
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\FaceDetector.cpp(9): error C2061: 语法错误: 标识符“Net”
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\FaceDetector.cpp(9): error C2612: 基/成员初始值设定项列表中的非法后缀“)”
+D:\doc\github_program_month_8\Face-Detector-1MB-with-landmark\Face_Detector_ncnn\FaceDetector.cpp(263): fatal error C1004: 发现意外的文件尾
+  正在生成代码...
